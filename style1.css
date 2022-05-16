@@ -1,0 +1,48 @@
+.na1{
+    border: 2px solid rounded;
+    height: 200px;
+    width: 300px;
+    margin-right: 20px;
+    background-image: url(./intelligence1.jpg);
+    background-size: contain;
+    border-radius: 12px;
+}
+.na2{
+    border: 2px solid #ce1b1b rounded;
+    height: 200px;
+    width: 300px;
+    margin-right: 20px;
+    background-image: url(./investigate1.jpg);
+    background-size: contain;
+    border-radius: 12px;
+}
+.na3{
+    border: 2px solid #ce1b1b rounded;
+    height: 200px;
+    width: 300px;
+    margin-right: 20px;
+    background-image: url(./authority2.jpg);
+    background-size: contain;
+    border-radius: 12px;
+}
+.na1:hover{
+        /* border: 1px solid blue; */
+        transform: scale(1.05, 1.05);
+        box-shadow: 0px 8px 16px 0px #f19797;
+}
+.na2:hover{
+    /* border: 1px solid blue; */
+    transform: scale(1.05, 1.05);
+    box-shadow: 0px 8px 16px 0px #f19797;
+}
+.na3:hover{
+    /* border: 1px solid blue; */
+    transform: scale(1.05, 1.05);
+    box-shadow: 0px 8px 16px 0px #f19797;
+}
+.nab:hover{
+    background-color: rgb(243, 156, 156);
+}
+.backbutton{
+    align-content: center;
+}
