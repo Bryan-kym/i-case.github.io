@@ -2,7 +2,7 @@
     border: 2px solid rounded;
     height: 200px;
     width: 300px;
-    margin-right: 20px;
+    /* margin-right: 20px; */
     background-image: url(./intelligence1.jpg);
     background-size: contain;
     border-radius: 12px;
@@ -11,8 +11,8 @@
     border: 2px solid #ce1b1b rounded;
     height: 200px;
     width: 300px;
-    margin-right: 20px;
-    background-image: url(./investigate1.jpg);
+     margin-left: 20px;
+    background-image: url(./investigation.png);
     background-size: contain;
     border-radius: 12px;
 }
@@ -20,8 +20,8 @@
     border: 2px solid #ce1b1b rounded;
     height: 200px;
     width: 300px;
-    margin-right: 20px;
-    background-image: url(./authority2.jpg);
+    margin-left: 20px;
+    background-image: url(./VLA.png);
     background-size: contain;
     border-radius: 12px;
 }
