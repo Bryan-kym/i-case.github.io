@@ -1,26 +1,4 @@
-// .py-4.card{
 
-//     border-radius: 12px !important;
-// }
-// body{
-//     background-color: black !important;
-// }
-// body{
-//     .container{
-//         .row{
-//             .col-md-4{
-//                     img{
-//                         border-radius: 23%;
-//                     }
-//                 }
-//             }
-//         }
-//     }
-
-// img{
-//     border-radius: 50%;
-//     border: 2px solid red;
-// }
  .mb-3{
  border-radius: 12px; 
 
@@ -35,3 +13,10 @@
 .btn{
     justify-content: center;
 }
+@media only screen and (min-width: 600px) {
+    img{
+        visibility: hidden;
+        background-color: #f19797;
+        color: red;
+    }
+  }
