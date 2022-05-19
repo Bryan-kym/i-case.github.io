@@ -1,0 +1,15 @@
+.mb-3 {
+  border-radius: 12px;
+}
+.mb-3 img {
+  border-radius: 12px;
+}
+
+.mb-3:hover {
+  transform: scale(1.05, 1.05);
+  box-shadow: 0px 8px 16px 0px #f19797;
+}
+
+.btn {
+  justify-content: center;
+}/*# sourceMappingURL=styles.css.map */
